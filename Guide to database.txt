@@ -1,5 +1,6 @@
 This is a guide for the database used in this project
 
+
 Database name- expense
 
 Table 1 name- details
