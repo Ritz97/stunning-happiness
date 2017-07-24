@@ -37,7 +37,7 @@ class expense:
             counter = 0
             for i in user_list:
                 counter += 1
-
+ 
             if counter==1:
                 messagebox.showerror("Already registered", "You are already registered")
 
