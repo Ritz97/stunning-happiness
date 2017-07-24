@@ -1,0 +1,17 @@
+This is a guide for the database used in this project
+
+Database name- expense
+
+Table 1 name- details
+Structure-
+name - varchar - 255
+email - varchar - 255 - unique
+password - varchar - 255
+balance - int - 10
+
+Table 2 name- transactions
+Structure-
+email - varchar - 255
+transaction_type - varchar - 255
+amount - int - 10 - default:0
+remarks - varchar - 255
